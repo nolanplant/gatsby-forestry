@@ -17,6 +17,8 @@ sections:
 - type: document
   path: content/data/authors.yaml
   label: Author List
+- type: heading
+  label: Winery Deals
 - type: document
   path: content/data/info.json
   label: Info Page
